@@ -1,0 +1,31 @@
+@media all and (max-width: 768px) {
+    section div {
+        width: 80%;
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+
+    .story-sect,
+    .sample,
+    .contact-section,
+    .featured {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .featured {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .section-text h2 {
+        text-align: center;
+    }
+
+    .section-text p {
+        text-align: justify;
+        margin-right: 10%;
+        margin-left: 10%;
+        font-size: 2vw;
+    }
+}
