@@ -12,6 +12,6 @@
   
 ## Author
 
-- [@Sarfaraz](https://www.github.com/GoogolDKhan)
+- This project is inspired by [FCC: Product Landing Page](https://codepen.io/freeCodeCamp/full/RKRbwL) & [CodePen by Louisa](https://codepen.io/loetcodes/full/ZPxPyj)
 
 - Dated : 26-05-2021
