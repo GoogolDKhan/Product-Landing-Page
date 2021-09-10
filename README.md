@@ -1,4 +1,4 @@
-# Product Landing Page
+# Product Landing Page [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/product-landing-page/badge)](https://www.codefactor.io/repository/github/googoldkhan/product-landing-page)
 
 - Based on Durex condoms, Rings, Lubricant, Gel and Durex Invisible advertisement.
 - Responsive Web Design.
